@@ -2,8 +2,6 @@
 
 /**
  * PHP REST Client
- * https://github.com/tcdent/php-restclient
- * (c) 2013-2017 Travis Dent <tcdent@gmail.com>
  */
 
 class RestClientException extends Exception {}
